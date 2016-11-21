@@ -57,6 +57,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAL\Project.cs" />
     <Compile Include="DAL\Group.cs" />
     <Compile Include="DAL\PvContext.cs" />
     <Compile Include="Migrations\201611191221026_Initial.cs" />
